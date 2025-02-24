@@ -208,8 +208,8 @@ function displayStartScreen() {
   background(220);
   fill(0);
   textSize(24);
-  textAlign(CENTER, TOP);
-  text("Welcome to the Dog Game!", width / 2, 50);
+  textAlign(CENTER, CENTER);
+  text("Welcome to the Dog Game!", width/2, height/2;
   
   textSize(16);
   textAlign(CENTER, TOP);
